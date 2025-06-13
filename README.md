@@ -1,7 +1,7 @@
 # procastinatepad
 I like to procastinate alot so I made a hackpad to procastinate other stuff with it
 
-# Time spent: 15h
+# Time spent: 35h
 
 ## CAD: Onshape
 ![Screenshot 2025-06-12 182333](https://github.com/user-attachments/assets/65501175-2d6e-4951-acf2-54f646173fb4)
