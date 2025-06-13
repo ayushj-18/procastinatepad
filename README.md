@@ -18,15 +18,15 @@ I like to procastinate alot so I made a hackpad to procastinate other stuff with
 ![Screenshot 2025-06-12 180955](https://github.com/user-attachments/assets/ba5ed9b3-bd9b-498d-859d-864831751869)
 
 # BOM
-10x Cherry MX Switches
-10x 1N4148 Diodes
-1x XIAO RP2040
-10x Blank DSA Keycaps
-4x M3x16 Bolt
-4x M3x4 Heatset
-1x EC11 ALPS Rotary Encoder
-1x PCB
-3D Printing from Printing legion
+-10x Cherry MX Switches
+-10x 1N4148 Diodes
+-1x XIAO RP2040
+-10x Blank DSA Keycaps
+-4x M3x16 Bolt
+-4x M3x4 Heatset
+-1x EC11 ALPS Rotary Encoder
+-1x PCB
+-3D Printing from Printing legion
 
 
-Side Notes: This was my first time using onshape, so this isn't my totally final design. I will make adjustments to it to make it look more clean. I will guarentee you I will waste absolutely no filament!!
+-Side Notes: This was my first time using onshape, so this isn't my totally final design. I will make adjustments to it to make it look more clean. I will guarentee you I will waste absolutely no filament!!
