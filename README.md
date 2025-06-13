@@ -19,7 +19,6 @@ I like to procastinate alot so I made a hackpad to procastinate other stuff with
 
 # BOM
 -10x Cherry MX Switches
-  -
 -10x 1N4148 Diodes
 -1x XIAO RP2040
 -10x Blank DSA Keycaps
