@@ -19,6 +19,7 @@ I like to procastinate alot so I made a hackpad to procastinate other stuff with
 
 # BOM
 -10x Cherry MX Switches
+  -
 -10x 1N4148 Diodes
 -1x XIAO RP2040
 -10x Blank DSA Keycaps
@@ -29,4 +30,4 @@ I like to procastinate alot so I made a hackpad to procastinate other stuff with
 -3D Printing from Printing legion
 
 
--Side Notes: This was my first time using onshape, so this isn't my totally final design. I will make adjustments to it to make it look more clean. I will guarentee you I will waste absolutely no filament!!
+-Side Notes: This was my first time using onshape, so this isn't my totally final design. I will make adjustments to it to make it look more clean. I will guarentee you I will waste absolutely not filament!!
