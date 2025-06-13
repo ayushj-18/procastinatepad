@@ -27,8 +27,8 @@ keyboard.modules.append(layers)
 
 keyboard.keymap = [
     [
-        KC.ESC, KC.Q, KC.W, KC.E, KC.BSPACE,
-        KC.LSHIFT,   KC.CAPSLOCK, KC.D, KC.F, KC.ENTER
+        KC.ESC, KC.TAB, KC.CAPSLOCK, KC.BSPACE, KC.DELETE,
+        KC.LSHIFT,KC.LCTRL, KC.LALT, KC.F, KC.ENTER
     ]
 ]
 
