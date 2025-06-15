@@ -4,7 +4,7 @@ I like to procastinate alot so I made a hackpad to procastinate other stuff with
 # Time spent: 35h
 
 ## CAD: Onshape
-![Screenshot 2025-06-12 182333](https://github.com/user-attachments/assets/65501175-2d6e-4951-acf2-54f646173fb4)
+![Screenshot 2025-06-13 003433](https://github.com/user-attachments/assets/35b44a15-92ad-41be-a252-88e4497ae7c4)
 
 ## Schematic: KiCAD
 ![Screenshot 2025-06-12 180915](https://github.com/user-attachments/assets/7be44b10-f7d3-481c-a3e4-9ad55a9596d0)
@@ -29,4 +29,4 @@ I like to procastinate alot so I made a hackpad to procastinate other stuff with
 -3D Printing from Printing legion
 
 
--Side Notes: This was my first time using onshape, so this isn't my totally final design. I will make adjustments to it to make it look more clean. I will guarentee you I will waste absolutely no filament!!
+-Side Notes: This was my first time using onshape, so this isn't my totally final design. I will make adjustments to it to make it look more clean. I will guarentee you I will waste absolutely not filament!!
