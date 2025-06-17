@@ -4,18 +4,18 @@ I like to procastinate alot so I made a hackpad to procastinate other stuff with
 # Time spent: 35h
 
 ## CAD: Onshape
-![Screenshot 2025-06-13 003433](https://github.com/user-attachments/assets/35b44a15-92ad-41be-a252-88e4497ae7c4)
+
 
 ## Schematic: KiCAD
-![Screenshot 2025-06-12 180915](https://github.com/user-attachments/assets/7be44b10-f7d3-481c-a3e4-9ad55a9596d0)
+![image](https://github.com/user-attachments/assets/4153a82d-54c4-4b5e-a7cb-e1abde869fcb)
 
 ## PCB Layout: KiCAD
-![Screenshot 2025-06-12 180935](https://github.com/user-attachments/assets/5090d87d-a6a3-4d3a-a850-1ee1ffecf4a5)
+![image](https://github.com/user-attachments/assets/4606f6e9-c16f-485b-ac5d-b2d4bc5d5f00)
+![image](https://github.com/user-attachments/assets/7af488e4-ffb5-45cc-b88d-468b1ac43c42)
 
 ## 3D View: KiCAD
-
-![Screenshot 2025-06-12 180948](https://github.com/user-attachments/assets/f5581d2d-b6c0-47c4-a829-572c20e6e976)
-![Screenshot 2025-06-12 180955](https://github.com/user-attachments/assets/ba5ed9b3-bd9b-498d-859d-864831751869)
+![image](https://github.com/user-attachments/assets/d49b7df4-342c-4320-8f51-d28066c9e246)
+![image](https://github.com/user-attachments/assets/a6e1484c-87f0-43dd-89fc-b9b775b85df9)
 
 # BOM
 -10x Cherry MX Switches
@@ -27,6 +27,7 @@ I like to procastinate alot so I made a hackpad to procastinate other stuff with
 -4x M3x4 Heatset
 -1x EC11 ALPS Rotary Encoder
 -1x PCB
--3D Printing from Printing legion
+-1kg filament from Amazon
+-3D Printing from my friend's 3D printer (he lives 5 minutes away from me)
 
 -Note: PCB is costing around $20 (with delivery) for both PCBWay and JLCPCB 
