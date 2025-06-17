@@ -4,6 +4,9 @@ I like to procastinate alot so I made a hackpad to procastinate other stuff with
 # Time spent: 35h
 
 ## CAD: Onshape
+![image](https://github.com/user-attachments/assets/296588e0-0e7c-45bc-bf81-05df5c64304c)
+![image](https://github.com/user-attachments/assets/01eca625-54c8-4360-aceb-cd23ba1ad5f3)
+![image](https://github.com/user-attachments/assets/05f84cf5-dca8-4012-aa99-835c3c73f9dd)
 
 
 ## Schematic: KiCAD
