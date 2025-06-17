@@ -1,5 +1,6 @@
 # procastinatepad
 I like to procastinate alot so I made a hackpad to procastinate other stuff with it
+## A hackpad with a 2x5 matrix rgb under every key. It uses solderable Cherry MX keyswitches. It also has a rotary encoder. For decorations, My mom will draw some DIY art here! that's why there's not much on onshape.
 
 # Time spent: 35h
 
