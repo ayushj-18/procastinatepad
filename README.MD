@@ -5,22 +5,22 @@ I like to procastinate alot so I made a hackpad to procastinate other stuff with
 # Time spent: 35h
 
 ## CAD: Onshape
-![image](https://github.com/user-attachments/assets/296588e0-0e7c-45bc-bf81-05df5c64304c)
-![image](https://github.com/user-attachments/assets/01eca625-54c8-4360-aceb-cd23ba1ad5f3)
-![image](https://github.com/user-attachments/assets/05f84cf5-dca8-4012-aa99-835c3c73f9dd)
-
+![alt text](IsometricViewCAD.png)
+![alt text](FrontViewCAD.png)
+![alt text](SideViewCAD.png)
 
 ## Schematic: KiCAD
-![alt text](image-3.png)
+![alt text](schematic.png)
 
 ## PCB Layout: KiCAD
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+![alt text](bothlayerPCB.png)
+![alt text](frontlayerPCB.png)
+![alt text](backlayerPCB.png)
 
 ## 3D View: KiCAD
-![image](https://github.com/user-attachments/assets/d49b7df4-342c-4320-8f51-d28066c9e246)
-![image](https://github.com/user-attachments/assets/a6e1484c-87f0-43dd-89fc-b9b775b85df9)
+![alt text](FrontView3DPCB.png)
+![alt text](BackView3DPCB.png)
+
 
 # BOM
 -10x Cherry MX Switches
