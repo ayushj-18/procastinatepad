@@ -5,21 +5,21 @@ I like to procastinate alot so I made a hackpad to procastinate other stuff with
 # Time spent: 35h
 
 ## CAD: Onshape
-![alt text](IsometricViewCAD.png)
-![alt text](FrontViewCAD.png)
-![alt text](SideViewCAD.png)
+![https://github.com/ayushj-18/procastinatepad/blob/main/screenshots/IsometricViewCAD.png](IsometricViewCAD.png)
+![https://github.com/ayushj-18/procastinatepad/blob/main/screenshots/FrontViewCAD.png](FrontViewCAD.png)
+![https://github.com/ayushj-18/procastinatepad/blob/main/screenshots/SideViewCAD.png](SideViewCAD.png)
 
 ## Schematic: KiCAD
-![alt text](schematic.png)
+![https://github.com/ayushj-18/procastinatepad/blob/main/screenshots/schematic.png](schematic.png)
 
 ## PCB Layout: KiCAD
-![alt text](bothlayerPCB.png)
-![alt text](frontlayerPCB.png)
-![alt text](backlayerPCB.png)
+![https://github.com/ayushj-18/procastinatepad/blob/main/screenshots/bothlayerPCB.png](bothlayerPCB.png)
+![https://github.com/ayushj-18/procastinatepad/blob/main/screenshots/frontlayerPCB.png](frontlayerPCB.png)
+![https://github.com/ayushj-18/procastinatepad/blob/main/screenshots/backlayerPCB.png](backlayerPCB.png)
 
 ## 3D View: KiCAD
-![alt text](FrontView3DPCB.png)
-![alt text](BackView3DPCB.png)
+![https://github.com/ayushj-18/procastinatepad/blob/main/screenshots/FrontView3DPCB.png](FrontView3DPCB.png)
+![https://github.com/ayushj-18/procastinatepad/blob/main/screenshots/BackView3DPCB.png](BackView3DPCB.png)
 
 
 # BOM
