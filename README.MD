@@ -11,11 +11,12 @@ I like to procastinate alot so I made a hackpad to procastinate other stuff with
 
 
 ## Schematic: KiCAD
-![image](https://github.com/user-attachments/assets/4153a82d-54c4-4b5e-a7cb-e1abde869fcb)
+![alt text](image-3.png)
 
 ## PCB Layout: KiCAD
-![image](https://github.com/user-attachments/assets/4606f6e9-c16f-485b-ac5d-b2d4bc5d5f00)
-![image](https://github.com/user-attachments/assets/7af488e4-ffb5-45cc-b88d-468b1ac43c42)
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
 
 ## 3D View: KiCAD
 ![image](https://github.com/user-attachments/assets/d49b7df4-342c-4320-8f51-d28066c9e246)
