@@ -5,21 +5,24 @@ I like to procastinate alot so I made a hackpad to procastinate other stuff with
 # Time spent: 35h
 
 ## CAD: Onshape
-![https://github.com/ayushj-18/procastinatepad/blob/main/screenshots/IsometricViewCAD.png](IsometricViewCAD.png)
-![https://github.com/ayushj-18/procastinatepad/blob/main/screenshots/FrontViewCAD.png](FrontViewCAD.png)
-![https://github.com/ayushj-18/procastinatepad/blob/main/screenshots/SideViewCAD.png](SideViewCAD.png)
+
+![Isometric View](https://raw.githubusercontent.com/ayushj-18/procastinatepad/main/screenshots/IsometricViewCAD.png)
+![Front View](https://raw.githubusercontent.com/ayushj-18/procastinatepad/main/screenshots/FrontViewCAD.png)
+![Side View](https://raw.githubusercontent.com/ayushj-18/procastinatepad/main/screenshots/SideViewCAD.png)
+
 
 ## Schematic: KiCAD
-![https://github.com/ayushj-18/procastinatepad/blob/main/screenshots/schematic.png](schematic.png)
+![Schematic](https://raw.githubusercontent.com/ayushj-18/procastinatepad/main/screenshots/schematic.png)
+
 
 ## PCB Layout: KiCAD
-![https://github.com/ayushj-18/procastinatepad/blob/main/screenshots/bothlayerPCB.png](bothlayerPCB.png)
-![https://github.com/ayushj-18/procastinatepad/blob/main/screenshots/frontlayerPCB.png](frontlayerPCB.png)
-![https://github.com/ayushj-18/procastinatepad/blob/main/screenshots/backlayerPCB.png](backlayerPCB.png)
+![Both Layers PCB](https://raw.githubusercontent.com/ayushj-18/procastinatepad/main/screenshots/bothlayerPCB.png)
+![Front Layer PCB](https://raw.githubusercontent.com/ayushj-18/procastinatepad/main/screenshots/frontlayerPCB.png)
+![Back Layer PCB](https://raw.githubusercontent.com/ayushj-18/procastinatepad/main/screenshots/backlayerPCB.png)
 
 ## 3D View: KiCAD
-![https://github.com/ayushj-18/procastinatepad/blob/main/screenshots/FrontView3DPCB.png](FrontView3DPCB.png)
-![https://github.com/ayushj-18/procastinatepad/blob/main/screenshots/BackView3DPCB.png](BackView3DPCB.png)
+![Front View 3D PCB](https://raw.githubusercontent.com/ayushj-18/procastinatepad/main/screenshots/FrontView3DPCB.png)
+![Back View 3D PCB](https://raw.githubusercontent.com/ayushj-18/procastinatepad/main/screenshots/BackView3DPCB.png)
 
 
 # BOM
