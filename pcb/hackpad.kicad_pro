@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.2
+          "min_clearance": 0.1
         }
       },
       "diff_pair_dimensions": [
@@ -65,9 +65,9 @@
       "rule_severities": {
         "annular_width": "error",
         "clearance": "error",
-        "connection_width": "warning",
+        "connection_width": "error",
         "copper_edge_clearance": "error",
-        "copper_sliver": "warning",
+        "copper_sliver": "error",
         "courtyards_overlap": "error",
         "creepage": "error",
         "diff_pair_gap_out_of_range": "error",
@@ -80,8 +80,8 @@
         "footprint_symbol_mismatch": "ignore",
         "footprint_type_mismatch": "ignore",
         "hole_clearance": "error",
-        "hole_to_hole": "warning",
-        "holes_co_located": "warning",
+        "hole_to_hole": "error",
+        "holes_co_located": "error",
         "invalid_outline": "error",
         "isolated_copper": "warning",
         "item_on_disabled_layer": "error",
@@ -92,13 +92,13 @@
         "malformed_courtyard": "error",
         "microvia_drill_out_of_range": "error",
         "mirrored_text_on_front_layer": "ignore",
-        "missing_courtyard": "ignore",
+        "missing_courtyard": "error",
         "missing_footprint": "ignore",
         "net_conflict": "ignore",
         "nonmirrored_text_on_back_layer": "ignore",
-        "npth_inside_courtyard": "ignore",
+        "npth_inside_courtyard": "error",
         "padstack": "warning",
-        "pth_inside_courtyard": "ignore",
+        "pth_inside_courtyard": "error",
         "shorting_items": "error",
         "silk_edge_clearance": "ignore",
         "silk_over_copper": "ignore",
@@ -112,13 +112,13 @@
         "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
         "track_angle": "error",
-        "track_dangling": "warning",
+        "track_dangling": "error",
         "track_segment_length": "error",
         "track_width": "error",
         "tracks_crossing": "error",
-        "unconnected_items": "ignore",
+        "unconnected_items": "error",
         "unresolved_variable": "error",
-        "via_dangling": "warning",
+        "via_dangling": "error",
         "zones_intersect": "error"
       },
       "rules": {
